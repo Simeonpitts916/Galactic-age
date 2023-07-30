@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By Brandon Spear
+#### by simeon pitts
 
 ## Technologies Used
 
